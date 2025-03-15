@@ -41,7 +41,7 @@ Our current dataset of word signs is very limited, so we would like to add more 
 
 ## Try it out:
 
-https://beniabra.github.io/TalkToTheHand/
+**Live Site:** https://beniabra.github.io/TalkToTheHand/
 
 **Presentation:** https://docs.google.com/presentation/d/1zDCt94RDffHJoVHgXLMQRJPvSCBvhWJGtKIA16B-YFg/edit#slide=id.g10b687a8bd6_0_596
 
