@@ -1,6 +1,6 @@
 # Welcome to Talk to the Hand
 
-### HenHacks 2024 - 1st place LabWare Connections Hack
+### HenHacks 2024 - 1st Place LabWare Connections Hack
 
 ![Our Website](public/translate-page.png)
 
@@ -23,13 +23,13 @@ We used React, TypeScript, and Chakra-UI / HTML & CSS in order to build our webs
 ## Challenges We Faced
 
 **UI Challenges:**
-One of the challenges we ran into was getting the ASL translator to convert from speech or text within the same text box. We decided to prioritize the overall functionality of the website, so we worked around the issue by making the convert from speech a separate area from the text.
+One of the challenges we ran into was getting the ASL translator to convert from speech or text within the same text box. We decided to prioritize the overall functionality of the website, so we worked around the issue by making the convert-from-speech a separate area from the text.
 
-**State:** Another issue we ran into was figuring out how to change state with react/typescript and modifying arrays without crashing the website.
+**State:** Another issue we ran into was figuring out how to change state with React/typescript and modifying arrays without crashing the website.
 
 ## Accomplishments We're Proud Of
 
-We are proud of our live text-to-ASL feature that translates speech / text to ASL. We used the react-speech-recognition library and a growing dictionary of ASL images to make this possible.
+We are proud of our live text-to-ASL feature that translates speech/text to ASL. We used the react-speech-recognition library and a growing dictionary of ASL images to make this possible.
 
 ## What We Learned
 
